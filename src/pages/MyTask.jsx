@@ -1,8 +1,8 @@
 import React from "react";
-import myTask from "../assets/Personal Tasks/My Tasks.png";
-import addTask from "../assets/Personal Tasks/Group 12.png";
-import editbut from "../assets/Personal Tasks/Frame 4.png";
-import deletebut from "../assets/Personal Tasks/Frame 5.png";
+import myTask from "../assets/images/My Tasks.png";
+import addTask from "../assets/images/Group 12.png";
+import editbut from "../assets/images/Frame 4.png";
+import deletebut from "../assets/images/Frame 5.png";
 import { Link, useNavigate } from "react-router-dom";
 import { useFetch } from "../hooks/useFetch";
 import toast from "react-hot-toast";

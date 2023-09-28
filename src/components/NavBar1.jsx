@@ -1,9 +1,9 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import logo from "../assets/Personal Tasks/Group 2.png";
-import newTask from "../assets/Personal Tasks/New Task.png";
-import allTask from "../assets/Personal Tasks/All Tasks.png";
-import profile from "../assets/Personal Tasks/Group 6.png";
+import logo from "../assets/images/Group 2.png";
+import newTask from "../assets/images/New Task.png";
+import allTask from "../assets/images/All Tasks.png";
+import profile from "../assets/images/Group 6.png";
 
 const NavBar1 = () => {
   return (

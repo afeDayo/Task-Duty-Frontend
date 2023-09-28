@@ -11,7 +11,7 @@ import { useEffect } from "react";
 import { Toaster } from "react-hot-toast";
 
 function App() {
-  const baseURL = "https://task-app-sojn.onrender.com/"; // you can change this to localhost:3000 to test and run on my server
+  const baseURL = "https://task-app-sojn.onrender.com"; // you can change this to localhost:3000 to test and run on my server
   return (
     <>
       <Router>

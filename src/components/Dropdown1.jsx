@@ -1,6 +1,6 @@
 import React, { useState } from "react";
-import urgent from "../assets/Personal Tasks/Frame 10.png";
-import important from "../assets/Personal Tasks/Frame 11.png";
+import urgent from "../assets/images/Frame 10.png";
+import important from "../assets/images/Frame 11.png";
 
 const Dropdown1 = ({ setTag }) => {
   const [options, setOptions] = useState(["urgent", "important"]);
