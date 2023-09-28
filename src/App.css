@@ -1,0 +1,128 @@
+#root {
+  text-align: center;
+}
+
+.nav {
+  border: 1px solid #b8b6b6;
+}
+
+.nav-bar {
+  padding-top: 16.5px;
+  padding-bottom: 16.5px;
+}
+
+.topic {
+  margin-top: 81px;
+}
+
+.lorem {
+  margin-top: 35px;
+}
+
+.frame {
+  margin-top: 30px;
+}
+
+.illu {
+  margin-top: 65px;
+}
+
+.my-task {
+  margin-top: 53px;
+}
+
+.eachT {
+  margin-top: 50px;
+  border: 1px solid #b8b6b6;
+  border-radius: 10px;
+}
+
+.urg {
+  font-size: 24px;
+  font-weight: 400;
+  color: #f38383;
+}
+
+.new-t {
+  margin-top: 53px;
+}
+
+.title {
+  margin-top: 90px;
+}
+
+.description {
+  margin-top: 70px;
+}
+
+.tag {
+  margin-top: 25px;
+}
+
+.title input {
+  border: 2px solid #b8b6b6;
+}
+
+.tt {
+  position: absolute;
+  top: -16px;
+  left: 50px;
+  background-color: white;
+}
+
+.description textarea {
+  border: 2px solid #b8b6b6;
+}
+
+.dd img {
+  position: absolute;
+  top: -12px;
+  left: 50px;
+  background-color: white;
+}
+
+.bor {
+  border: 2px solid #b8b6b6;
+}
+
+.tagg {
+  position: absolute;
+  top: -12px;
+  left: 50px;
+  background-color: white;
+}
+
+.done {
+  margin-top: 80px;
+}
+
+.done img {
+  width: 100%;
+}
+
+.homeimg img {
+  width: 100%;
+}
+
+.homeall img {
+  width: 100%;
+}
+
+.dropdown-options {
+  list-style: none;
+  text-align: left;
+  background-color: gray;
+  position: absolute;
+  left: 545px;
+}
+
+.dropdown-options p {
+  cursor: pointer;
+  transition: 0.3s ease-in-out;
+  color: white;
+  font-weight: 600;
+}
+
+.dropdown-options p:hover {
+  background-color: #f38383;
+}
